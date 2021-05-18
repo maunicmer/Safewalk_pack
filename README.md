@@ -1,3 +1,4 @@
+!safewalk_logo.png
 # Safewalk - Access Management anywhere with everything
 
 **Safewalk** is a complete strong authentication platform that helps prevent takeover and online fraud by securing the access to all your cloud and on-premises applications and data.
