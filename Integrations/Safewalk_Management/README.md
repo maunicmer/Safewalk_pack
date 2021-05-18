@@ -1,4 +1,4 @@
-Integration with Safewalk identity management service
+## Integration with Safewalk identity management service ##
 
 ## Configure Safewalk on Demisto
 
