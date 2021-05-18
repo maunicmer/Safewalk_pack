@@ -1,5 +1,13 @@
 ## Integration with Safewalk reporting services ##
-
+---
+## Use Cases
+---
+- Fetch incidents from Safewalk Server
+- Get transaction logs
+- Get license inventory
+- Search for user incidents
+- Query user attributes
+---
 ## Configure Safewalk on Demisto
 
 1. Navigate to **Settings** > **Integrations** > **Servers & Services**.
