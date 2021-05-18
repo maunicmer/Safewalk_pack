@@ -1,4 +1,4 @@
-Integration with Safewalk reporting services
+## Integration with Safewalk reporting services ##
 
 ## Configure Safewalk on Demisto
 
