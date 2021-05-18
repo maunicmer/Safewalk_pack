@@ -1,5 +1,13 @@
 ## Integration with Safewalk identity management service ##
-
+---
+## Use Cases
+---
+- Create users
+- Delete users attempts
+- Create tokens
+- Assign user license
+- Update users personal information
+---
 ## Configure Safewalk on Demisto
 
 1. Navigate to **Settings** > **Integrations** > **Servers & Services**.
